@@ -4,6 +4,12 @@ This project is a clone of the **Pha5e website's hero section**, created as part
 
 ---
 
+## 🚀 **Live Demo**
+
+**[Click here to view the live demo on GitHub Pages](https://gaurav-soni24.github.io/itzfizz-assignment/)**
+
+---
+
 ## 🛠️ **Tech Stack Used**
 
 - **HTML** – Structure of the webpage
@@ -32,13 +38,6 @@ This project is a clone of the **Pha5e website's hero section**, created as part
 - `style.css` – Custom CSS for styling
 - `script.js` – JavaScript logic for interactions and animations
 - `logo.svg` – media files
-
----
-
-## 🚀 **Live Demo**
-
-**[Click here to view the live demo on GitHub Pages]()**
-
 
 ---
 
