@@ -39,13 +39,3 @@ This project is a clone of the **Pha5e website's hero section**, created as part
 - `script.js` – JavaScript logic for interactions and animations
 - `logo.svg` – media files
 
----
-
-## 💑 **How to Run Locally**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/pha5e-hero-clone.git
-   ```
-2. Open the project folder.
-3. Run `index.html` in your preferred browser.
